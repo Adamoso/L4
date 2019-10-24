@@ -11,6 +11,9 @@ Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat (>= 2.1.0),
-    covr
+    covr,
+    spelling
 URL: https://github.com/Adamoso/L4
 BugReports: https://github.com/Adamoso/L4/issues
+Language: en-US
+RoxygenNote: 6.1.1
